@@ -3,4 +3,4 @@
 
 Graspskills Training is world’s leading certification training provider, delivering excellence and value to bridge the skill gap, transform learners into world-class professionals across the globe and empower the learners to achieve their career goals.
 
-We offer instructor-led classroom training, online training and e-learning for working professionals in the management, agile, information technology as well business & finance industry, courses accredited by PMI and others such as CSM, PSM, ITIL, PRINCE2, Big Data and Hadoop, SAFe, Six Sigma and many more.
+We offer instructor-led classroom training, online training and e-learning for working professionals in the management, agile, information technology as well business & finance industry, courses accredited by PMI and others such as CSM, PSM, ITIL, PRINCE2, Big Data and Hadoop, SAFe, Six Sigma and <a href="https://www.graspskills.com/courses">many more</a>.
